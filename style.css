@@ -1,0 +1,24 @@
+* {
+  border-radius: 0 !important;
+
+}
+
+body {
+  color: #fff;
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+  background-image: linear-gradient(to bottom right, rgba(199, 233, 78, 0.774), rgba(204, 235, 28, 0.562)), url('https://cdn.pixabay.com/photo/2018/01/18/07/31/bitcoin-3089728__340.jpg');
+  background-size: cover;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
+
+.title h1 {
+  font-size: 60px;
+}
+
+label {
+  color: #fff;
+  float: left;
+}
